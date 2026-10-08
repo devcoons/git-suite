@@ -1,0 +1,5 @@
+git-sync/git-sync
+git-list-submodules/git-list-submodules
+git-list-tags/git-list-tags
+git-get-branch-info/git-get-branch-info
+*.test
